@@ -1,6 +1,6 @@
 # University Mapper
 
-University Mapper is a focused data engineering project for a Data & Operations internship. It maps Netaji Subhash Engineering College programs into PostgreSQL and adds a lightweight QA layer for duplicate, completeness, and naming checks.
+University Mapper is a focused data engineering project. It maps Netaji Subhash Engineering College programs into PostgreSQL and adds a lightweight QA layer for duplicate, completeness, and naming checks.
 
 ## Problem Statement
 
