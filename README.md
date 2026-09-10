@@ -4,7 +4,7 @@ University Mapper is a focused data engineering project for a Data & Operations 
 
 ## Problem Statement
 
-Hiring teams need reliable university intelligence that can support search, matching, enrichment, and an eventual education taxonomy graph. This project models one college, NSEC, as structured data with programs, degree types, intake capacity, duration, source URL, and verification date.
+Decision System need reliable university intelligence that can support search, matching, enrichment, and an eventual education taxonomy graph. This project models one college, NSEC, as structured data with programs, degree types, intake capacity, duration, source URL, and verification date.
 
 ## Schema Design
 
